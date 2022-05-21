@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/react-app-myportfolio/static/css/main.4b247cc3.chunk.css",
+    "main.js": "/react-app-myportfolio/static/js/main.9c6cd48f.chunk.js",
+    "main.js.map": "/react-app-myportfolio/static/js/main.9c6cd48f.chunk.js.map",
+    "runtime-main.js": "/react-app-myportfolio/static/js/runtime-main.4baa0199.js",
+    "runtime-main.js.map": "/react-app-myportfolio/static/js/runtime-main.4baa0199.js.map",
+    "static/js/2.4728d251.chunk.js": "/react-app-myportfolio/static/js/2.4728d251.chunk.js",
+    "static/js/2.4728d251.chunk.js.map": "/react-app-myportfolio/static/js/2.4728d251.chunk.js.map",
+    "static/js/3.f94c5e6e.chunk.js": "/react-app-myportfolio/static/js/3.f94c5e6e.chunk.js",
+    "static/js/3.f94c5e6e.chunk.js.map": "/react-app-myportfolio/static/js/3.f94c5e6e.chunk.js.map",
+    "index.html": "/react-app-myportfolio/index.html",
+    "precache-manifest.60fa05fdf1ef0ee97543286e9cf5c6dd.js": "/react-app-myportfolio/precache-manifest.60fa05fdf1ef0ee97543286e9cf5c6dd.js",
+    "service-worker.js": "/react-app-myportfolio/service-worker.js",
+    "static/css/main.4b247cc3.chunk.css.map": "/react-app-myportfolio/static/css/main.4b247cc3.chunk.css.map",
+    "static/js/2.4728d251.chunk.js.LICENSE.txt": "/react-app-myportfolio/static/js/2.4728d251.chunk.js.LICENSE.txt",
+    "static/media/Alien.png": "/react-app-myportfolio/static/media/Alien.d6c04742.png",
+    "static/media/Book_Search.png": "/react-app-myportfolio/static/media/Book_Search.7c2b49da.png",
+    "static/media/Guitar_Shop.png": "/react-app-myportfolio/static/media/Guitar_Shop.762efcf9.png",
+    "static/media/Insomnia.png": "/react-app-myportfolio/static/media/Insomnia.8ceec6cf.png",
+    "static/media/MySQL.png": "/react-app-myportfolio/static/media/MySQL.aea0f048.png",
+    "static/media/MyTechBlog.png": "/react-app-myportfolio/static/media/MyTechBlog.c3fe29e5.png",
+    "static/media/Quiz_Javascript.png": "/react-app-myportfolio/static/media/Quiz_Javascript.938432ca.png",
+    "static/media/ResumeMarianaMarques2022.pdf": "/react-app-myportfolio/static/media/ResumeMarianaMarques2022.b72e7de6.pdf",
+    "static/media/SH_budgettracker.png": "/react-app-myportfolio/static/media/SH_budgettracker.8e0a1763.png",
+    "static/media/Solidity.png": "/react-app-myportfolio/static/media/Solidity.b609aaee.png",
+    "static/media/Team_Profile.png": "/react-app-myportfolio/static/media/Team_Profile.ed7f15c8.png",
+    "static/media/Weather_Dashboard.png": "/react-app-myportfolio/static/media/Weather_Dashboard.2770f044.png",
+    "static/media/me.png": "/react-app-myportfolio/static/media/me.c32e24f3.png",
+    "static/media/me_transparency.png": "/react-app-myportfolio/static/media/me_transparency.ff61d8ae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4baa0199.js",
+    "static/js/2.4728d251.chunk.js",
+    "static/css/main.4b247cc3.chunk.css",
+    "static/js/main.9c6cd48f.chunk.js"
+  ]
+}
