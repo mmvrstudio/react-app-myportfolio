@@ -3,7 +3,7 @@
     Description: This project is a personal portfolio created withh react, based on my github projects and featuring my resume and technical skills.
 
 
-# Deployed:
+# Deployed Application:
      https://mmvrstudio.github.io/react-app-myportfolio/
 
 
@@ -13,6 +13,10 @@
   
 # Usage: 
      - npm start
-     - "homepage": "https://mmvrstudio.github.io/react-portfolio/"
+     - "homepage": "https://mmvrstudio.github.io/react-app-myportfolio/"
      - npm run deploy
+
+# Screenshot:
+
+
 
